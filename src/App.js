@@ -1,9 +1,10 @@
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
+import Nevbar from "./components/Nevbar";
 
 function App() {
   return (
-<h2>Edgar Online</h2>
+    <Nevbar/>
   );
 }
 
